@@ -2,7 +2,6 @@
 **A revolutionary framework for app developers to write both frontend and backend code in Python.**  
 
 > Pyxonic lets you build stunning apps effortlessly by combining frontend and backend logic in one framework. Write frontend with `.pyx` files and backend with `.py` files, using FastAPI for server-side development. 🚀  
-
 ---
 
 ## 🚀 Features  
