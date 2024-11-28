@@ -17,6 +17,7 @@
 ## 📂 Project Structure  
 
 
+
 my-pyxonic-app/  
 ├── pages/  
 │   ├── index.pyx        # Frontend home screen  
